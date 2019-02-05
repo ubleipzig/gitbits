@@ -14,6 +14,7 @@ Prepared for 2019-02-25, 12:30--13:30 meeting.
 6. Local hooks
 7. The git push workflow (remote hooks)
 8. Stats (cal, theseus)
+9. Wrap up, Resources
 
 ----
 
@@ -127,3 +128,9 @@ Welcome to the tour.
 2. Prompt playsi
 
 * XXX: vcprompt
+
+----
+
+9. Wrap up, Resources
+
+* [More git tips](https://github.com/git-tips/tips)
