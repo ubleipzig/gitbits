@@ -74,3 +74,36 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
+Nah, two LIBS entries seem to be missing.
+
+```shell
+diff --git a/Makefile b/Makefile
+index a6bba79ba1..aeb6d4b61a 100644
+--- a/Makefile
++++ b/Makefile
+@@ -8,7 +8,7 @@ all: $(PROG)
+ install: $(PROG)
+    install $(PROG) $(HOME)/bin/
+
+-LIBS= -lssl
++LIBS= -lssl -lcrypto -lz
+
+ init-db: init-db.o
+
+```
+
+The very first repo contained a seven executables already.
+
+```
+$ find . -maxdepth 1 -perm -111 -type f
+./update-cache
+./cat-file
+./init-db
+./write-tree
+./show-diff
+./read-tree
+./commit-tree
+```
+
+Sun, 1 May 2005, [Quick git command
+reference](https://lwn.net/Articles/134222/) - 29 commands.
