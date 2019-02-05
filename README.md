@@ -6,7 +6,14 @@ Prepared for 2019-02-25, 12:30--13:30 meeting.
 
 ## TOC
 
-1. git is a toolkit
+1. Git is a toolkit
+2. Prompt playsi
+3. Config bits
+4. Edit, Patch, Rebase
+5. The Clash
+6. Local hooks
+7. The git push workflow (remote hooks)
+8. Stats (cal, theseus)
 
 ----
 
