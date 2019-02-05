@@ -6,7 +6,7 @@ Prepared for 2019-02-25, 12:30--13:30 meeting.
 
 ## TOC
 
-1. Git is a toolkit
+1. Git is a toolkit and a key-value store
 2. Prompt playsi
 3. Config bits
 4. Edit, Patch, Rebase
@@ -17,7 +17,7 @@ Prepared for 2019-02-25, 12:30--13:30 meeting.
 
 ----
 
-## 1. git is a toolkit
+## 1. git is a toolkit and a key-value store
 
 Git is a collection of utilities, just a normal UNIX citizen.
 
@@ -107,3 +107,12 @@ $ find . -maxdepth 1 -perm -111 -type f
 
 Sun, 1 May 2005, [Quick git command
 reference](https://lwn.net/Articles/134222/) - 29 commands.
+
+You can add your own.
+
+```shell
+$ echo "bash -c 'echo Anything goes.'" > ~/bin/git-xyz && chmod +x ~/bin/git-xyz
+$ git xyz
+Anything goes.
+```
+
