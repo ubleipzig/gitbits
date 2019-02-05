@@ -116,3 +116,14 @@ $ git xyz
 Anything goes.
 ```
 
+> Git is a fast, scalable, distributed revision control system with an
+> unusually rich command set that provides both high-level operations and full
+> access to internals.
+
+Welcome to the tour.
+
+----
+
+2. Prompt playsi
+
+* XXX: vcprompt
