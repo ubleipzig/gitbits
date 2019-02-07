@@ -123,25 +123,19 @@ Anything goes.
 
 Welcome to the tour.
 
-----
-
-2. Prompt playsi
+## 2. Prompt playsi
 
 * XXX: vcprompt
 
-----
+## 3. Config bits
 
-3. Config bits
-
-----
-
-4. Edit, patch, rebase, clean
+## 4. Edit, patch, rebase, clean
 
 * git clean -fd
 
-----
+## 8. Stats
 
-8. Stats
+
 
 Install git-extras to get a few additional tools. Here, git summary on git:
 
@@ -170,12 +164,12 @@ $ git summary
 
 ```
 
+### Git-of-Theseus
+
 Have you heard of git-of-theseus?
 
 ![](static/theseusmin_22083.png)
 
-----
-
-9. Wrap up, Resources
+## 9. Wrap up, Resources
 
 * [More git tips](https://github.com/git-tips/tips)
