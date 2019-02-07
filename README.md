@@ -125,7 +125,9 @@ Welcome to the tour.
 
 ## 2. Prompt playsi
 
-* XXX: vcprompt
+### vcprompt
+
+![](static/vcprompt.png)
 
 ## 3. Config bits
 
@@ -173,3 +175,8 @@ Have you heard of git-of-theseus?
 ## 9. Wrap up, Resources
 
 * [More git tips](https://github.com/git-tips/tips)
+* [Hacker Tools](https://hacker-tools.github.io/), covers
+  [git](https://hacker-tools.github.io/version-control/) and asks [if git is
+dark magic](https://hacker-tools.github.io/version-control/#is-git-dark-magic).
+
+
