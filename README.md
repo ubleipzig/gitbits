@@ -1,8 +1,10 @@
 # Git Love
 
-Git is a lovely tool. This repo collects a few things I found useful.
+Git is a lovely tool. This repo collects a few things I use or found useful.
+The goal is to show the versatility of the tool and that it can be fun to hack
+the development process itself.
 
-Prepared for 2019-02-25, 12:30--13:30 meeting.
+Prepared for DM18B, 2019-02-25, 12:30--13:30 meeting (Albertina, TDB).
 
 ## TOC
 
