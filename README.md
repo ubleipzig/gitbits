@@ -12,11 +12,12 @@ Prepared for DM18B, 2019-02-25, 12:30--13:30 meeting (Albertina, TDB).
 2. Prompt playsi
 3. Config bits
 4. Edit, Patch, Rebase
-5. The Clash
-6. Local hooks
-7. The git push workflow (remote hooks)
-8. Stats (cal, theseus)
-9. Wrap up, Resources
+5. Diff-so-fancy
+6. The Clash
+7. Local hooks
+8. The git push workflow (remote hooks)
+9. Stats (cal, theseus)
+10. Wrap up, Resources
 
 ----
 
@@ -156,7 +157,17 @@ fancyprompt ()
 
 * git clean -fd
 
-## 8. Stats
+## 5. Diff-so-fancy
+
+The default is NICE.
+
+![](static/diff-default.png)
+
+But we can get FANCY as well:
+
+![](static/diff-fancy.png)
+
+## 9. Stats
 
 
 
@@ -193,7 +204,7 @@ Have you heard of git-of-theseus?
 
 ![](static/theseusmin_22083.png)
 
-## 9. Wrap up, Resources
+## 10. Wrap up, Resources
 
 * [More git tips](https://github.com/git-tips/tips)
 * [Hacker Tools](https://hacker-tools.github.io/), covers
