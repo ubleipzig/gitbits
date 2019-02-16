@@ -167,6 +167,10 @@ But we can get FANCY as well:
 
 ![](static/diff-fancy.png)
 
+Dark themed:
+
+![](static/diff-fancy-dark.png)
+
 ## 9. Stats
 
 
