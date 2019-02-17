@@ -132,6 +132,9 @@ $ git xyz
 Anything goes.
 ```
 
+> Although Git includes its own porcelain layer, its low-level commands are
+> sufficient to support development of alternative porcelain. -- Documentation/git.txt
+
 > Git is a fast, scalable, distributed revision control system with an
 > unusually rich command set that provides both high-level operations and full
 > access to internals.
