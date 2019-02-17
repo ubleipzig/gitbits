@@ -8,7 +8,7 @@ Prepared for DM18B, 2019-02-25, 12:30--13:30 meeting (Albertina, TDB).
 
 ## TOC
 
-1. Git is a toolkit and a key-value store
+1. Git is a toolkit
 2. Prompt playsi
 3. Config bits
 4. Edit, Patch, Rebase
@@ -21,7 +21,7 @@ Prepared for DM18B, 2019-02-25, 12:30--13:30 meeting (Albertina, TDB).
 
 ----
 
-## 1. git is a toolkit and a key-value store
+## 1. git is a toolkit
 
 Git is a collection of utilities, just a normal UNIX citizen.
 
@@ -210,9 +210,26 @@ Have you heard of git-of-theseus?
 
 ## 10. Wrap up, Resources
 
+There was a documentation effort at around git 1.5.0 (2010), since then lots of
+documentations, books and more became available.
+
+```man
+$ man giteveryday
+
+    giteveryday - A useful minimum set of commands for Everyday Git
+
+Git users can broadly be grouped into four categories for the purposes of
+describing here a small set of useful command for everyday Git:
+
+* INDIVIDUAL DEVELOPER (STANDALONE)
+* INDIVIDUAL DEVELOPER (PARTICIPANT)
+* INTEGRATOR
+* REPOSITORY ADMINISTRATION
+
+```
+
 * [More git tips](https://github.com/git-tips/tips)
 * [Hacker Tools](https://hacker-tools.github.io/), covers
   [git](https://hacker-tools.github.io/version-control/) and asks [if git is
 dark magic](https://hacker-tools.github.io/version-control/#is-git-dark-magic).
-
 
