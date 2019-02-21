@@ -243,3 +243,6 @@ describing here a small set of useful command for everyday Git:
   [git](https://hacker-tools.github.io/version-control/) and asks [if git is
 dark magic](https://hacker-tools.github.io/version-control/#is-git-dark-magic).
 * [git exercises](https://gitexercises.fracz.com/)
+* [gitignore.io](https://www.gitignore.io)
+* `git commit --amend`, hooks (e.g. for automatically create a version string)
+
