@@ -1,4 +1,4 @@
-# Git Love
+# On Git
 
 Git is a lovely tool. This repo collects a few things I use or found useful.
 The goal is to show the versatility of the tool and that it can be fun to hack
