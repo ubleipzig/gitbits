@@ -76,3 +76,8 @@ File extensions.
 Code survival.
 
 ![](static/got-dm18b/survival.png)
+
+Example from another project at [@UBL](http://ub.uni-leipzig.de/):
+
+* [Cohorts](https://github.com/miku/siskin/blob/master/docs/repo/cohorts.png)
+  for project [siskin](https://github.com/miku/siskin).
