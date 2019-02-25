@@ -18,3 +18,7 @@ Prepared for DM18B, 2019-02-25, 12:30--13:30 meeting (Albertina, TDB).
 8. [The git push workflow (remote hooks)](80-RemoteHooks.md)
 9. [Stats (cal, theseus)](90-Stats.md)
 10. [Wrap up, Resources](98-WrapUp.md)
+
+Additional sections:
+
+* [Object](15-Objects.md)
