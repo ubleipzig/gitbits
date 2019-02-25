@@ -63,6 +63,8 @@ Authors.
 
 ![](static/got-dm18b/authors.png)
 
+![](static/got-dm18b/authorsnorm.png)
+
 Code cohorts.
 
 ![](static/got-dm18b/cohorts.png)
