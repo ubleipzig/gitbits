@@ -1,7 +1,5 @@
 ## 9. Stats
 
-
-
 Install git-extras to get a few additional tools. Here, git summary on git:
 
 ```
@@ -59,25 +57,25 @@ $ open stack_plot.png
 
 The dm18b repo.
 
-Authors.
+### Authors
 
 ![](static/got-dm18b/authors.png)
 
 ![](static/got-dm18b/authorsnorm.png)
 
-Code cohorts.
+### Code cohorts
 
 ![](static/got-dm18b/cohorts.png)
 
-File extensions.
+### File extensions
 
 ![](static/got-dm18b/exts.png)
 
-Code survival.
+### Code survival
 
 ![](static/got-dm18b/survival.png)
 
-Example from another project at [@UBL](http://ub.uni-leipzig.de/):
+### Example from another project at [@UBL](http://ub.uni-leipzig.de/):
 
 * [Cohorts](https://github.com/miku/siskin/blob/master/docs/repo/cohorts.png)
   for project [siskin](https://github.com/miku/siskin).
