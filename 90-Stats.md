@@ -34,3 +34,25 @@ $ git summary
 Have you heard of git-of-theseus?
 
 ![](static/theseusmin_22083.png)
+
+
+```shell
+$ pip install git-of-theseus
+$ git-of-theseus-analyze .
+...
+Counting total entries to analyze + caching filenames
+Analyzing commit history
+100% (1488 of 1488) |
+...
+Writing cohort data to ./cohorts.json
+Writing ext data to ./exts.json
+Writing author data to ./authors.json
+Writing survival data to ./survival.json
+```
+
+Create stack or survival plots:
+
+```
+$ git-of-theseus-stack-plot authors.json
+$ open stack_plot.png
+```
