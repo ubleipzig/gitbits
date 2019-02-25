@@ -132,16 +132,22 @@ $ git xyz
 Anything goes.
 ```
 
-> Although Git includes its own porcelain layer, its low-level commands are
+> Although Git includes its own **porcelain** layer, its low-level commands are
 > sufficient to support development of alternative porcelain. -- Documentation/git.txt
 
 > Git is a fast, scalable, distributed revision control system with an
 > unusually rich command set that provides both high-level operations and full
 > access to internals.
 
-Welcome to the tour.
+Welcome to a short tour.
 
 ## 2. Prompt playsi
+
+Spice up your prompt. Saves you an occasional git status. There are many versions:
+
+* [git-prompt.sh](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
+* [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt)
+* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
 
 ### vcprompt
 
