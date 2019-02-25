@@ -56,3 +56,21 @@ Create stack or survival plots:
 $ git-of-theseus-stack-plot authors.json
 $ open stack_plot.png
 ```
+
+The dm18b repo.
+
+Authors.
+
+![](static/got-dm18b/authors.png)
+
+Code cohorts.
+
+![](static/got-dm18b/cohorts.png)
+
+File extensions.
+
+![](static/got-dm18b/exts.png)
+
+Code survival.
+
+![](static/got-dm18b/survival.png)
