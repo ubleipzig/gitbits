@@ -2,7 +2,7 @@
 
 Many examples on the web. Do not type out command, create aliases.
 
-Example `$HOME/gitconfig` file.
+Example `$HOME/.gitconfig` file.
 
 ```
 [user]
