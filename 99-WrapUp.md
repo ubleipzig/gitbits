@@ -28,4 +28,4 @@ dark magic](https://hacker-tools.github.io/version-control/#is-git-dark-magic).
 * [gitignore.io](https://www.gitignore.io)
 * `git commit --amend`, hooks (e.g. for automatically create a version string)
 
-What is a detached HEAD? How to write a good a commit message.
+> What is a detached HEAD? How to write a good a commit message.
