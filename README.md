@@ -21,4 +21,4 @@ Prepared for DM18B, 2019-02-25, 12:30--13:30 meeting (Albertina, TDB).
 
 Additional sections:
 
-* [Object](15-Objects.md)
+* [Objects](15-Objects.md)
