@@ -17,3 +17,17 @@ Some critics:
 > convention, and an unpopular one at that), the history of a project managed
 > using GitFlow for some time invariably starts to resemble a giant ball of
 > spaghetti.
+
+## Workflows will be project dependent
+
+* The [finc](https://finc.info) project [@UBL](http://ub.uni-leipzig.de/) utilizes git branches to:
+
+* separate work on each issue (or feature)
+* separate instances (alpha, staging, production with various configurations)
+* separate tenants (we host services for [over twenty institutions](https://finc.info/de/anwender)), each one with slightly differing requirements 
+
+Tooling around hooks allows to automatically deploy (and undeploy) [LAMP-Application](https://vufind.org/vufind/).
+
+Another [metadata project](https://github.com/ubleipzig/siskin/commits/master) is organized more linearly.
+
+

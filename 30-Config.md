@@ -1,13 +1,13 @@
 ## 3. Config bits
 
-Many examples on the web. Do not type out command, create aliases.
+Many [examples](https://dotfiles.github.io/) on the web. Do not type out command, create aliases.
 
 Example `$HOME/.gitconfig` file.
 
 ```
 [user]
-    name = Max Muster
-    email = max@muster.com
+    name = Maxi Muster
+    email = maxi@muster.com
 
 [core]
 

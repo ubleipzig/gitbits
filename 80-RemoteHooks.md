@@ -23,3 +23,7 @@ Gitlab offers webhooks, allows to listen for various payloads.
 * An example for a [push
   payload](https://github.com/miku/span/blob/05cb13b8e328a03a53fc59d68b82051168c2246e/cmd/span-webhookd/main.go#L192-L249)
   (in Go), used for a simple index analysis task.
+
+### At UBL
+
+Automatic deployments via [autoconfig](https://github.com/ubleipzig/autoconfig).

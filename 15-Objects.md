@@ -11,10 +11,10 @@ Receiving objects:  10% (26797/264653), 9.75 MiB | 1.65 MiB/s
 ### Objects anyone?
 
 ```
-... objects
+... objects ...
 ```
 
-Four different kinds of objects:
+There are only four different kinds of objects in git:
 
 * blob
 * tree

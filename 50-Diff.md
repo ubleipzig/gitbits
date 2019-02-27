@@ -4,7 +4,7 @@ The default is NICE.
 
 ![](static/diff-default.png)
 
-But we can get FANCY as well:
+But we can get [FANCY](https://github.com/so-fancy/diff-so-fancy) as well:
 
 ![](static/diff-fancy.png)
 

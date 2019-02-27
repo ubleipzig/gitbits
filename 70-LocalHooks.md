@@ -1,5 +1,7 @@
 ## 7. Local hooks
 
+Allow to run custom commands at various stages.
+
 ```
 $ tree -sh .git/hooks/
 .git/hooks/
@@ -16,9 +18,9 @@ $ tree -sh .git/hooks/
 └── [3.5K]  update.sample
 ```
 
-Rename and make them executable. 
+Rename and make them executable - `chmod +x`.
 
-There are a couple of use cases, often code quality related.
+There are a couple of use cases, often **code quality** related.
 
 > In this article we'll see a great way to make sure you **never, ever commit
 > code that has not been properly formatted**, using a little known but

@@ -1,11 +1,11 @@
 ## 4. Edit, patch, rebase
 
-A few thoughts on edit, patch and rebase.
+A few thoughts on edit, patch, rebase cycle.
 
 
 ### Know about git add --patch
 
-You don't have to use it, just know about it.
+You don't have to use it all the time, just know about it.
 
 ```
 $ git add --patch 
@@ -15,7 +15,7 @@ It allows to interactively select hunks for a commit. Useful to craft
 semantically sensible commits, e.g. separate updates to documentation from a
 fix, from a feature.
 
-Works for `git reset --patch`, too.
+Works in the opposite direction, e.g. `git reset --patch`, too.
 
 Shorthand: `git add -p`, in essence, you can have a mess of changes and your
 commits still look fantastic.
@@ -25,17 +25,17 @@ commits still look fantastic.
 Seems to be the most irritating thing. It has two broad use cases:
 
 * reorganize your own work
-* follow a more linear commit history
+* allow for a linear project history
 
 #### Reorganize your work
 
 A most basic scenario:
 
-* branch off master
+* branch off master (into a feature branch)
 * hack on things
-* commit, commit, commit - dirty, ugly commits, no messages, totally insane
+* commit, commit, commit - dirty, ugly commits, no messages, uncomprehensible
 * it seems to work
-* interactively rebase
+* then: **interactively rebase**
 * people will think you are a genius, coming up with clean solutions from the start
 
 Maybe try it out:
@@ -49,10 +49,10 @@ $ git clone git@git.informatik.uni-leipzig.de:czygan/git-throwaway.git
 
 TODO:
 
-* Clone the repo
-* Create some branch
-* Create three commits
-* Combine these commits into one
+* clone the repo
+* create some branch
+* create three commits
+* combine these commits into one
 
 #### Linear history
 
