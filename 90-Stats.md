@@ -55,25 +55,25 @@ $ git-of-theseus-stack-plot authors.json
 $ open stack_plot.png
 ```
 
-The dm18b repo.
+Some random github repo (here: [https://github.com/containerd/containerd](https://github.com/containerd/containerd))
 
 ### Authors
 
-![](static/got-dm18b/authors.png)
+![](static/got-containerd/authors.png)
 
-![](static/got-dm18b/authorsnorm.png)
+![](static/got-containerd/authorsnorm.png)
 
 ### Code cohorts
 
-![](static/got-dm18b/cohorts.png)
+![](static/got-containerd/cohorts.png)
 
 ### File extensions
 
-![](static/got-dm18b/exts.png)
+![](static/got-containerd/exts.png)
 
 ### Code survival
 
-![](static/got-dm18b/survival.png)
+![](static/got-containerd/survival.png)
 
 ### Example from another project at [@UBL](http://ub.uni-leipzig.de/):
 

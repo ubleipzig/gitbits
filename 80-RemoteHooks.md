@@ -26,4 +26,4 @@ Gitlab offers webhooks, allows to listen for various payloads.
 
 ### At UBL
 
-Automatic deployments via [autoconfig](https://github.com/ubleipzig/autoconfig).
+Example for automatic deployment [@UBL](http://ub.uni-leipzig.de/): [autoconfig](https://github.com/ubleipzig/autoconfig).
