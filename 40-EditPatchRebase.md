@@ -1,4 +1,4 @@
-## 4. Edit, patch, rebase
+## Edit, patch, rebase
 
 A few thoughts on edit, patch, rebase cycle.
 

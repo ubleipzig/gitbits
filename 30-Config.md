@@ -1,4 +1,4 @@
-## 3. Config bits
+## Config bits
 
 Many [examples](https://dotfiles.github.io/) on the web. Do not type out command, create aliases.
 

@@ -1,4 +1,4 @@
-## 7. Local hooks
+## Local hooks
 
 Allow to run custom commands at various stages.
 

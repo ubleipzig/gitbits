@@ -1,4 +1,4 @@
-## 9. Stats
+## Stats
 
 Install git-extras to get a few additional tools. Here, git summary on git:
 

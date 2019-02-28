@@ -1,4 +1,4 @@
-## 8. Remote Hooks
+## Remote Hooks
 
 Used for server side tasks, a way to [customize git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks).
 

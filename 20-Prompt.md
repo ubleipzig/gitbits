@@ -1,4 +1,4 @@
-## 2. Prompt playsi
+## Prompt playsi
 
 Spice up your prompt. Saves you an occasional git status. There are many versions:
 

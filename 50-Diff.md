@@ -1,4 +1,4 @@
-## 5. Diff-so-fancy
+## Diff-so-fancy
 
 The default is NICE.
 

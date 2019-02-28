@@ -1,4 +1,4 @@
-## 1. git is a toolkit
+## git is a toolkit
 
 Git is a collection of utilities, just a normal UNIX citizen.
 

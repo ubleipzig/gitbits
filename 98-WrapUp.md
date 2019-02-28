@@ -1,4 +1,4 @@
-## 10. Wrap up, Resources
+## Wrap up, Resources
 
 There was a documentation effort at around git 1.5.0 (2010), since then lots of
 documentations, books and more became available.
