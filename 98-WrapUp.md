@@ -18,6 +18,8 @@ describing here a small set of useful command for everyday Git:
 
 ```
 
+### Other resources
+
 * [More git tips](https://github.com/git-tips/tips)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/), just a simple guide for getting started with git. no deep shit ;)
 * [Visualizing Git](http://git-school.github.io/visualizing-git/)
@@ -26,6 +28,10 @@ describing here a small set of useful command for everyday Git:
 dark magic](https://hacker-tools.github.io/version-control/#is-git-dark-magic).
 * [git exercises](https://gitexercises.fracz.com/)
 * [gitignore.io](https://www.gitignore.io)
-* `git commit --amend`, hooks (e.g. for automatically create a version string)
 
-> What is a detached HEAD? How to write a good a commit message.
+Random bits.
+
+* rewrite commit message (that has not been pushed yet): `git commit --amend`
+* hooks (e.g. for automatically create a version string)
+* What is a detached HEAD?
+* How to write a good a commit message?

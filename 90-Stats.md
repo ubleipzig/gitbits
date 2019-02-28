@@ -75,7 +75,7 @@ $ open stack_plot.png
 
 Let's peek into containerd:
 
-> An industry-standard container runtime with an emphasis on simplicity, robustness and portability :w
+> An industry-standard container runtime with an emphasis on simplicity, robustness and portability
 
 #### Authors
 
