@@ -90,7 +90,7 @@ Let's peek into containerd:
 
 #### Makefile
 
-Simple makefile used to create plots:
+Simple [makefile](static/got-containerd/Makefile) used to create plots:
 
 ```makefile
 # Generic makefile to analyze a git repository and generate some plots.
