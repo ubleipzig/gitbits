@@ -11,7 +11,7 @@ Prepared for SWP18/DM18B, 2019-02-25, 12:30--13:30 meeting (Albertina, FZ).
 ## TOC
 
 1. [Git is a toolkit](10-Welcome.md)
-2. [What are git objects](15-Objects.md)
+2. [What are git objects?](15-Objects.md)
 3. [Prompt playsi](20-Prompt.md)
 4. [Config bits](30-Config.md)
 5. [Edit, Patch, Rebase](40-EditPatchRebase.md)
