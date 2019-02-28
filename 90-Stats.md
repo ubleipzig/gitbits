@@ -64,6 +64,10 @@ $ open stack_plot.png
 
 ### Analyzing a [random](https://github.com/containerd/containerd) git repo
 
+Let's peek into containerd:
+
+> An industry-standard container runtime with an emphasis on simplicity, robustness and portability :w
+
 #### Authors
 
 ![](static/got-containerd/authors.png)
