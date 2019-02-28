@@ -6,7 +6,9 @@ the development process itself.
 
 ![](static/Git-Icon-1788C.png)
 
-Prepared for SWP18/DM18B, 2019-02-25, 12:30--13:30 meeting (Albertina, FZ).
+Prepared for
+[SWP18/DM18B](http://bis.informatik.uni-leipzig.de/de/Lehre/BAMA/SWP),
+2019-02-25, 12:30--13:30 meeting (Albertina, FZ).
 
 ## TOC
 
