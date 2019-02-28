@@ -36,7 +36,16 @@ Command line activity view via [git-cal](https://github.com/k4rthik/git-cal).
 
 ### Git-of-Theseus
 
-Have you heard of git-of-theseus?
+Have you heard of [git-of-theseus](https://github.com/erikbern/git-of-theseus)?
+
+> As a project evolves, does the new code just add on top of the old code? Or
+> does it replace the old code slowly over time? In order to understand this, I
+> built a little thing to analyze Git projects, with help from the formidable
+> GitPython project. The idea is to go back in history historical and run a git
+> blame (making this somewhat fast was a bit nontrivial, as it turns out, but
+> I’ll spare you the details, which involve some opportunistic caching of
+> files, pick historical points spread out in time, use git diff to invalidate
+> changed files, etc).
 
 ![](static/theseusmin_22083.png)
 
