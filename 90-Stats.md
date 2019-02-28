@@ -27,6 +27,13 @@ $ git summary
 
 ```
 
+### git-cal
+
+Command line activity view via [git-cal](https://github.com/k4rthik/git-cal).
+
+![](static/gitcal.png)
+
+
 ### Git-of-Theseus
 
 Have you heard of git-of-theseus?
@@ -55,27 +62,27 @@ $ git-of-theseus-stack-plot authors.json
 $ open stack_plot.png
 ```
 
-Some random github repo (here: [https://github.com/containerd/containerd](https://github.com/containerd/containerd))
+### Analyzing a [random](https://github.com/containerd/containerd) git repo
 
-### Authors
+#### Authors
 
 ![](static/got-containerd/authors.png)
 
 ![](static/got-containerd/authorsnorm.png)
 
-### Code cohorts
+#### Code cohorts
 
 ![](static/got-containerd/cohorts.png)
 
-### File extensions
+#### File extensions
 
 ![](static/got-containerd/exts.png)
 
-### Code survival
+#### Code survival
 
 ![](static/got-containerd/survival.png)
 
-### Example from another project at [@UBL](http://ub.uni-leipzig.de/):
+### Example from another project at [@UBL](http://ub.uni-leipzig.de/)
 
 * [Cohorts](https://github.com/miku/siskin/blob/master/docs/repo/cohorts.png)
   for project [siskin](https://github.com/miku/siskin).
