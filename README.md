@@ -4,7 +4,7 @@ Git is a lovely tool. This repo collects a few things I use or found useful.
 The goal is to show the versatility of the tool and that it can be fun to hack
 the development process itself.
 
-![](Git-Icon-1788C.png)
+![](static/Git-Icon-1788C.png)
 
 Prepared for SWP18/DM18B, 2019-02-25, 12:30--13:30 meeting (Albertina, FZ).
 
