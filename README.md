@@ -1,9 +1,8 @@
 # About Git
 
-Git is a lovely tool. This repo collects a few things
-[I](https://github.com/miku/) use or found useful. The goal is to show the
-versatility of the tool and that it can be fun to hack the development process
-itself.
+Git is a lovely tool. This repo collects a few things that might be useful. The
+goal is to show the versatility of the tool and that it can be productive (and
+maybe fun) to hack the development process itself.
 
 ![](static/Git-Icon-1788C.png)
 
