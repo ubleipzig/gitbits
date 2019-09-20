@@ -73,7 +73,7 @@ index a6bba79ba1..aeb6d4b61a 100644
 
 ```
 
-The very first repo contained a seven executables already.
+The very first repo contained seven executables already.
 
 ```
 $ find . -maxdepth 1 -perm -111 -type f
