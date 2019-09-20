@@ -6,6 +6,7 @@ Example `$HOME/.gitconfig` file.
 
 ```ini
 [user]
+
     name = Maxi Muster
     email = maxi@muster.com
 
