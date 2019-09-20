@@ -1,7 +1,10 @@
 ## Wrap up, Resources
 
 There was a documentation effort at around git 1.5.0 (2010), since then lots of
-documentations, books and more became available.
+documentations, books and more became available, more people used git, github
+gets purchased for $7.5 billion, many [alternatives](https://gitea.io),
+[emerged](https://gitlab.com), [over](https://sourcehut.org/),
+the [past](https://gogs.io/) [years](https://gitolite.com).
 
 ```man
 $ man giteveryday
