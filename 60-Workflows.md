@@ -20,14 +20,17 @@ Some critics:
 
 ## Workflows will be project dependent
 
-* The [finc](https://finc.info) project [@UBL](http://ub.uni-leipzig.de/) utilizes git branches to:
+The [finc](https://finc.info) project [@UBL](http://ub.uni-leipzig.de/) utilizes git branches to:
 
-* separate work on each issue (or feature)
-* separate instances (alpha, staging, production with various configurations)
-* separate tenants (we host services for [over twenty institutions](https://finc.info/de/anwender)), each one with slightly differing requirements 
+* separate work on each issue/feature
+* separate instances (alpha, staging, production with varying configurations)
+* separate tenants (we host services for [about twenty
+  institutions](https://finc.info/de/anwender)), each one with slightly custom requirements
 
-Tooling around hooks allows to automatically deploy (and undeploy) [LAMP-Application](https://vufind.org/vufind/).
+Tooling around hooks allows to automatically deploy (and undeploy)
+[LAMP-Application](https://vufind.org/vufind/).
 
-Another [metadata project](https://github.com/ubleipzig/siskin/commits/master) is organized more linearly.
+Another [metadata project](https://github.com/ubleipzig/siskin/commits/master)
+is organized more linearly.
 
 
