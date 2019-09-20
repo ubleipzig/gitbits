@@ -28,7 +28,7 @@ system with a C99 compiler. Some optional features require external libraries
 
 You can modify your
 [PS1](http://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Bourne-Shell-Variables)
-to run include `vcprompt` output (here's a [snippet](snippets/vcprompt.bash)).
+to run include `vcprompt` output (here's a [snippet](https://raw.githubusercontent.com/ubleipzig/gitbits/master/snippets/vcprompt.bash)).
 
 ```shell
 fancyprompt ()
