@@ -15,3 +15,6 @@ Dark themed:
 
 ![](static/diff-fancy-dark.png)
 
+Side by side:
+
+![](diff-so-fancy.png)
