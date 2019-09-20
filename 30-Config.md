@@ -4,7 +4,7 @@ Many [examples](https://dotfiles.github.io/) on the web. Do not type out command
 
 Example `$HOME/.gitconfig` file.
 
-```
+```ini
 [user]
     name = Maxi Muster
     email = maxi@muster.com
