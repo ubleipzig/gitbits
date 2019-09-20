@@ -17,4 +17,4 @@ Dark themed:
 
 Side by side:
 
-![](diff-so-fancy.png)
+![](static/diff-so-fancy.png)
