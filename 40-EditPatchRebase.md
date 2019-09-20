@@ -8,7 +8,7 @@ A few thoughts on edit, patch, rebase cycle.
 You don't have to use it all the time, just know about it.
 
 ```
-$ git add --patch 
+$ git add --patch
 ```
 
 It allows to interactively select hunks for a commit. Useful to craft
@@ -37,22 +37,6 @@ A most basic scenario:
 * it seems to work
 * then: **interactively rebase**
 * people will think you are a genius, coming up with clean solutions from the start
-
-Maybe try it out:
-
-Dummy repo at
-[https://git.informatik.uni-leipzig.de/czygan/git-throwaway](https://git.informatik.uni-leipzig.de/czygan/git-throwaway).
-
-```shell
-$ git clone git@git.informatik.uni-leipzig.de:czygan/git-throwaway.git
-```
-
-TODO:
-
-* clone the repo
-* create some branch
-* create three commits
-* combine these commits into one
 
 #### Linear history
 
