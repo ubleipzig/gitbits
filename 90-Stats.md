@@ -1,6 +1,8 @@
 ## Stats
 
-Install git-extras to get a few additional tools. Here, git summary on git:
+[Install](https://github.com/tj/git-extras/blob/master/Installation.md)
+[git-extras](https://github.com/tj/git-extras) to get a few additional tools.
+Here, `git summary` on git:
 
 ```
 $ git summary
