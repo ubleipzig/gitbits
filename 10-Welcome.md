@@ -89,7 +89,7 @@ $ find . -maxdepth 1 -perm -111 -type f
 Sun, 1 May 2005, [Quick git command
 reference](https://lwn.net/Articles/134222/) - 29 commands.
 
-Here is a repo full of git scripts:
+Here are repos full of git scripts:
 
 * [https://github.com/jwiegley/git-scripts](https://github.com/jwiegley/git-scripts)
 * [https://github.com/esc/git-big-picture](https://github.com/esc/git-big-picture)
